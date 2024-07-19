@@ -1,5 +1,4 @@
 Huffman encoding/decoding
-Name: Reem Moustafa Lotfy 
 
 The provided code is an implementation of Huffman encoding and decoding in Python. 
 Huffman coding is a compression algorithm that assigns variable-length codes to characters based on 
